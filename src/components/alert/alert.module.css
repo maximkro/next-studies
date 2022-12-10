@@ -1,0 +1,9 @@
+.success {
+    @apply
+    bg-green-400
+}
+
+.error {
+    @apply
+    bg-red-400
+}
